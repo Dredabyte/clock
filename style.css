@@ -1,0 +1,38 @@
+body {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    align-items: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+.title {
+    height: auto;
+    width: 900px;
+    border: 2px solid;
+    border-radius: 50px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+h1 {
+    position: relative;
+    font-size: 5em;
+    margin: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#clock {
+    font-size: 12em;
+    text-align: center;
+}
+
+#date {
+    font-size: 3em;
+    text-align: center;
+}
